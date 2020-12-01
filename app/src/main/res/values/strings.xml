@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Atractivos Turisticos</string>
+    <string name="nombresitio">Nombre del sitio</string>
+    <string name="tipo">Tipo</string>
+    <string name="descripcion">Descripción</string>
+    <string name="nombremunicipio">Nombre del Municipio</string>
+    <string name="direccion">Dirección</string>
+    <string name="telefono">Telefono</string>
+    <string name="filtrar">Filtrar</string>
+
+    <string name="glyph_cancel" translatable="false">&#xe5cd;</string>
+    <string name="glyph_save" translatable="false">&#xe161;</string>
+</resources>
