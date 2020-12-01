@@ -123,7 +123,7 @@ public class ListadoAtractivosTuristicos extends AppCompatActivity {
 
     @Override
     public void onBackPressed() {
-        if(tilFiltrar.getEditText().hasFocus()){
+        if(tilFiltrar.getEditText().hasFocus()&&tilFiltrar.getEditText().getText().length()>0){
             tilFiltrar.getEditText().setText("");
         }else{
             super.onBackPressed();
